@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://github.com/sabrinaberno" title="Perfil da Sabrina Berno"> 
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaberno&theme=dracula&show_icons=true" />
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaberno&theme=dracula&show_icons=true" />
       </a>
     </td>
   </tr>
